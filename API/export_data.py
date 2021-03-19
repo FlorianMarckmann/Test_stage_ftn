@@ -5,7 +5,7 @@ data = {}
 data['issue'] = []
 
 # using an access token
-g = Github("69f7f9a521e3acf1fae10a2363acacc59d3c6a7a")
+g = Github("1f18903ceb60ae44d01e00afdea0b2a125e02f9b")
 
 repo = g.get_repo("PyGithub/PyGithub")
 open_issues = repo.get_issues(state='open')
