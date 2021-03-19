@@ -1,0 +1,23 @@
+#data_container{
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+a {
+	font-size: x-large;
+}
+
+svg {
+	margin-right: 10px;
+}
+
+img {
+	background: transparent;
+	mix-blend-mode: multiply;
+}
+
+p {
+	margin-top: 2px;
+}
